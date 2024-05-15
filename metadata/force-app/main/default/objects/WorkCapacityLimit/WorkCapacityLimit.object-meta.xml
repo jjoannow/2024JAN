@@ -132,43 +132,43 @@
     <searchLayouts>
         <customTabListAdditionalFields>ServiceTerritory</customTabListAdditionalFields>
         <customTabListAdditionalFields>SvcApptField</customTabListAdditionalFields>
-        <customTabListAdditionalFields>SvcApptFieldValue</customTabListAdditionalFields>
         <customTabListAdditionalFields>SvcApptFieldValDplyNm</customTabListAdditionalFields>
         <customTabListAdditionalFields>TimePeriod</customTabListAdditionalFields>
         <customTabListAdditionalFields>StartDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>EndDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>LimitationUnits</customTabListAdditionalFields>
         <customTabListAdditionalFields>LimitationValue</customTabListAdditionalFields>
+        <customTabListAdditionalFields>CapacityLimitRelaxation</customTabListAdditionalFields>
         <customTabListAdditionalFields>IsActive</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>ServiceTerritory</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>SvcApptField</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>SvcApptFieldValue</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>SvcApptFieldValDplyNm</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>TimePeriod</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>StartDate</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>EndDate</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>LimitationUnits</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>LimitationValue</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>CapacityLimitRelaxation</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>IsActive</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ServiceTerritory</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>SvcApptField</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>SvcApptFieldValue</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>SvcApptFieldValDplyNm</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>TimePeriod</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>StartDate</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>EndDate</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LimitationUnits</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LimitationValue</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>CapacityLimitRelaxation</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>IsActive</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ServiceTerritory</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>SvcApptField</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>SvcApptFieldValue</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>SvcApptFieldValDplyNm</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>TimePeriod</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>StartDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>EndDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LimitationUnits</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LimitationValue</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CapacityLimitRelaxation</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>IsActive</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>

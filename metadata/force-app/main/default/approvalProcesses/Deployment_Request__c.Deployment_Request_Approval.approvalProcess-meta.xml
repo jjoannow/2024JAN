@@ -21,7 +21,7 @@
         <allowDelegate>true</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>jjoannow@prodly.co.cr-00002516</name>
+                <name>jjoannow@prodly.co.demo24a</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>

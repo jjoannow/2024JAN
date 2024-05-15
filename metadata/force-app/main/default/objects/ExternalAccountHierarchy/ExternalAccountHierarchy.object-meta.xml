@@ -132,6 +132,10 @@
     <searchLayouts>
         <customTabListAdditionalFields>Account</customTabListAdditionalFields>
         <customTabListAdditionalFields>Parent</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Account</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Parent</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Account</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Parent</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>Account</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Parent</searchResultsAdditionalFields>
     </searchLayouts>

@@ -10,4 +10,18 @@
         <protected>false</protected>
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
+    <rules>
+        <fullName>Fill Professional Ent Source Record Id</fullName>
+        <actions>
+            <name>Fill_Prof_Ent_Source_Record_Id</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>Custom_Contact__c.Name</field>
+            <operation>notEqual</operation>
+            <value>Joannow</value>
+        </criteriaItems>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
 </Workflow>
