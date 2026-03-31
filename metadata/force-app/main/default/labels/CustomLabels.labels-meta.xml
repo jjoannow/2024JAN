@@ -14,4 +14,11 @@
         <shortDescription>TESTCUSTOMLABEL</shortDescription>
         <value>meep</value>
     </labels>
+    <labels>
+        <fullName>Testinglabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Testinglabel</shortDescription>
+        <value>5</value>
+    </labels>
 </CustomLabels>
