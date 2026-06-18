@@ -18,9 +18,8 @@
         </actions>
         <active>true</active>
         <criteriaItems>
-            <field>Custom_Contact__c.Name</field>
+            <field>Custom_Contact__c.CreatedDate</field>
             <operation>notEqual</operation>
-            <value>Joannow</value>
         </criteriaItems>
         <triggerType>onCreateOnly</triggerType>
     </rules>
